@@ -1,2 +1,2 @@
-# TypeScript-Study
-TypeScript Study
+# Typescript_study
+TS学习笔记
